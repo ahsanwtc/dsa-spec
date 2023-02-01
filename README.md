@@ -34,4 +34,4 @@ No. $2^3log{_2}{n} = (2log{_2}{n})^3 = n^3$ and $n^3$ grows slower than $n^5$.
 
 ### 7. $2^n = O(2^n+1)$
 
-Yes. $2^n+1 = 2 . 2^n$, that is, $2^n$ and $2^n+1$ have the same growth rate and hence $2^n = \theta(2^n+1).
+Yes. $2^n+1 = 2 . 2^n$, that is, $2^n$ and $2^n+1$ have the same growth rate and hence $2^n = \Theta(2^n+1).
